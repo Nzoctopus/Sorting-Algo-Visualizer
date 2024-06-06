@@ -7,7 +7,7 @@
 
 CC = g++
 
-NAME = visualiser
+NAME = visualizer
 
 SRC = $(shell find -name "*.cpp")
 
