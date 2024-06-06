@@ -5,7 +5,7 @@
 ** sort
 */
 
-#include "../include/include.h"
+#include "../include/include.hpp"
 #include "../include/Window.hpp"
 
 void sort2(int numbers[5120], Window &window, sf::RectangleShape &rect)

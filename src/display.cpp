@@ -5,7 +5,7 @@
 ** display
 */
 
-#include "../include/include.h"
+#include "../include/include.hpp"
 
 void display_stats(Window &window, sf::RectangleShape &bg, sf::Text &text)
 {

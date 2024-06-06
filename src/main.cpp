@@ -5,7 +5,7 @@
 ** main
 */
 
-#include "../include/include.h"
+#include "../include/include.hpp"
 
 void cleared_animation(Window &window, sf::RectangleShape &rect, int pos, int numbers[5120])
 {
