@@ -55,6 +55,8 @@ make
 ```
  ## Contact
 
-Enzo ABDALLAH - Email - enzo.abdallah@epitech.eu
+Enzo ABDALLAH
+Email - enzo.abdallah@epitech.eu
+LinkedIn - https://www.linkedin.com/in/enzo-abdallah/
 
 Project Link: https://github.com/Nzoctopus/Sorting-Algo-Visualizer
